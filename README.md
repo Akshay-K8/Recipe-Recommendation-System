@@ -55,8 +55,8 @@ The **Recipe Recommendation System** is an AI-powered web application designed t
 ### Steps to Run 🏃‍♂️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/recipe-recommender.git
-   cd recipe-recommender
+   git clone https://github.com/Akshay-K8/Recipe-Recommendation-System.git
+   cd Recipe-Recommendation-System
    ```
 2. Install dependencies:
    ```bash
