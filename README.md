@@ -41,7 +41,7 @@ The **Recipe Recommendation System** is an AI-powered web application designed t
 ## How It Works 🔍
 1. **Search Recipes**: Users can input a recipe name or a list of ingredients.
    
-   ![Search Bar](./images/Searchbar.png)
+   ![Search Bar](./Searchbar.png)
 
 2. **Filter Results**: Apply filters such as maximum cooking time or dietary restrictions.
 
@@ -49,11 +49,11 @@ The **Recipe Recommendation System** is an AI-powered web application designed t
 
 4. **Get Recommendations**: See similar recipes based on the selected recipe and adjust weights for fine-tuning.
    
-   ![Recommendation Section](./images/Recommendation%20Section.png)
+   ![Recommendation Section](./Recommendation%20Section.png)
 
 5. **User-Dependent Recommendations**: Personalized suggestions tailored to user preferences.
    
-   ![User Depend Recommendation](./images/user%20Depend%20Recommendation.png)
+   ![User Depend Recommendation](./user%20Depend%20Recommendation.png)
 
 ## Setup Instructions ⚙️
 ### Prerequisites 📋
